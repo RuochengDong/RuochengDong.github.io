@@ -2,16 +2,33 @@ title: Ruocheng Dong,MS # your name (or website title) here
 logo: "/images/logo.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D candidate @ University of Wisconsin-Madison
-  <br><br>
+  
   Genetic Epidemilogy
-  <br><br>
+
   Minor: Bioinformatics and Statistical Omics Analysis
   <br><br>
   MS in Biostatistics @ Georgetown University
   <br><br>
-  <a href="ruocheng.dong@wisc.edu">Email</a> 
-  <br><br>
-  <a href="https://www.linkedin.com/in/ruocheng-dong-20808ba9/">My LinkedIn </a> 
+ [Email](mailto:ruocheng.dong@wisc.edu?subject=[GitHub]%20Source%20Han%20Sans)
   
+ [[params.social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.co.in/citations?user=DW-wSxEAAAAJ"
+  
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/ruocheng-dong-20808ba9"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/RuochengDong"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/RoxanneDong"
+   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
