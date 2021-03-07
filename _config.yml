@@ -11,10 +11,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Email: ruocheng.dong@wisc.edu
   
-- title: "linkedin"
-  href: "https://www.linkedin.com/in/ruocheng-dong-20808ba9"
-
-- title: "twitter"
-  href: "https://twitter.com/RoxanneDong"
-
 theme: jekyll-theme-minimal
