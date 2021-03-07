@@ -2,13 +2,13 @@ title: Ruocheng Dong,MS # your name (or website title) here
 logo: "/images/logo.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D candidate@UW-Madison
-  
+   <br><br>
   Genetic Epidemilogy
-
-  Minor: Bioinformatics and Statistical Omics Analysis
-  
-  MS in Biostatistics
   <br><br>
+  Minor: Bioinformatics and Statistical Omics Analysis
+    <br><br>
+  MS in Biostatistics
+   <br><br>
   Email: ruocheng.dong@wisc.edu
   
 theme: jekyll-theme-minimal
