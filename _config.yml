@@ -1,15 +1,20 @@
 title: Ruocheng Dong,MS # your name (or website title) here
 logo: "/images/logo.jfif?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Ph.D candidate@University of Wisconsin-Madison
-  
+  Ph.D candidate@UW-Madison
   
   Genetic Epidemilogy
 
   Minor: Bioinformatics and Statistical Omics Analysis
-  <br><br>
-  MS in Biostatistics@Georgetown University
+  
+  MS in Biostatistics
   <br><br>
   Email: ruocheng.dong@wisc.edu
-     
+  
+- title: "linkedin"
+  href: "https://www.linkedin.com/in/ruocheng-dong-20808ba9"
+
+- title: "twitter"
+  href: "https://twitter.com/RoxanneDong"
+
 theme: jekyll-theme-minimal
