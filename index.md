@@ -1,12 +1,12 @@
 ## About me
 
-![Google scholar](/images/googlescholar.svg)(https://scholar.google.co.in/citations?user=DW-wSxEAAAAJ)
+[Google Scholar](https://scholar.google.co.in/citations?user=DW-wSxEAAAAJ)
  
   
-![Linkedin](/images/linkedin.svg)(https:linkedin.com/in/ruocheng-dong-20808ba9)
+[Linkedin](https:linkedin.com/in/ruocheng-dong-20808ba9)
 
 
-![Twitter](/images/linkedin.svg)(https://twitter.com/RoxanneDong)
+[Twitter](/images/linkedin.svg)(https://twitter.com/RoxanneDong)
 
 ---
 
